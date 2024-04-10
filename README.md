@@ -37,6 +37,11 @@ Abre el archivo .gitignore que acabas de crear y pega el contenido que copiaste 
 
 
 ## Punteros 🚀
+### ¿A qué se debe que la dirección de memoria almacenada por el puntero sea igual a la dirección de memoria de la variable?
 
+La dirección de memoria almacenada por un puntero es igual a la dirección de memoria de la variable a la que apunta porque eso es precisamente lo que hace un puntero: almacenar la dirección de memoria de otra variable.
+
+### Dirección de memoria del puntero.
+La dirección de memoria del puntero en sí misma será diferente de la dirección de memoria a la que apunta el puntero. La dirección de memoria del puntero es donde se almacena el valor del puntero, mientras que la dirección a la que apunta el puntero es donde se encuentra la variable a la que apunta.
 
 * **Carrasco Suarez Guillermina** - *Trabajo Inicial* *Documentación* - [GuilleCarrasco](https://github.com/GuilleCarrasco)
