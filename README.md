@@ -35,4 +35,8 @@ En tu proyecto de Visual Studio Code, crea un nuevo archivo llamado .gitignore. 
 Abre el archivo .gitignore que acabas de crear y pega el contenido que copiaste desde gitignore.io.
 ## Autores ✒️
 
+
+## Punteros 🚀
+
+
 * **Carrasco Suarez Guillermina** - *Trabajo Inicial* *Documentación* - [GuilleCarrasco](https://github.com/GuilleCarrasco)
